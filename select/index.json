@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Temperature's Rising",
+  "base_artist": "Mobb Deep",
+  "createdAt": "2026-03-18T19:06:12.619998Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Temperature's Rising",
+      "artist": "Galaxie 500",
+      "has_synced": false,
+      "path": "select/01_Temperature's_Rising_Galaxie_500.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Temperature's Rising",
+      "artist": "Mobb Deep",
+      "has_synced": true,
+      "path": "select/02_Temperature's_Rising_Mobb_Deep.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Temperature’s Rising (feat. Crystal Nicole)",
+      "artist": "Mobb Deep",
+      "has_synced": true,
+      "path": "select/03_Temperature’s_Rising_(feat._Crystal_Nicole)_Mobb_Deep.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Temperature's Rising (LP Version)",
+      "artist": "Mobb Deep",
+      "has_synced": true,
+      "path": "select/04_Temperature's_Rising_(LP_Version)_Mobb_Deep.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Temperature's Rising",
+      "artist": "Mobb Deep",
+      "has_synced": true,
+      "path": "select/05_Temperature's_Rising_Mobb_Deep.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "My Temperature's Rising",
+      "artist": "The Audition",
+      "has_synced": false,
+      "path": "select/06_My_Temperature's_Rising_The_Audition.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Temperature's Rising",
+      "artist": "Nina Sky",
+      "has_synced": false,
+      "path": "select/07_Temperature's_Rising_Nina_Sky.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Temperature's Rising (Prelude)",
+      "artist": "Nina Sky",
+      "has_synced": false,
+      "path": "select/08_Temperature's_Rising_(Prelude)_Nina_Sky.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Temperature's Rising",
+      "artist": "Mobb Deep featuring Crystal Johnson feat. Crystal Johnson",
+      "has_synced": true,
+      "path": "select/09_Temperature's_Rising_Mobb_Deep_featuring_Crystal_Johnson_feat._Crystal_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Temperature's Rising (feat. Crystal Johnson)",
+      "artist": "Mobb Deep featuring Crystal Johnson",
+      "has_synced": true,
+      "path": "select/10_Temperature's_Rising_(feat._Crystal_Johnson)_Mobb_Deep_featuring_Crystal_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Temperature's Rising",
+      "artist": "Mobb Deep",
+      "has_synced": false,
+      "path": "select/11_Temperature's_Rising_Mobb_Deep.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Temperature's Rising (With Crystal Johnson)",
+      "artist": "Mobb Deep",
+      "has_synced": true,
+      "path": "select/12_Temperature's_Rising_(With_Crystal_Johnson)_Mobb_Deep.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Temperature's Rising (Remix)",
+      "artist": "Mobb Deep",
+      "has_synced": false,
+      "path": "select/13_Temperature's_Rising_(Remix)_Mobb_Deep.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Temperature’s Rising",
+      "artist": "Mobb Deep feat. Crystal Nicole",
+      "has_synced": true,
+      "path": "select/14_Temperature’s_Rising_Mobb_Deep_feat._Crystal_Nicole.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Temperature's Rising (feat. Crystal Johnson)",
+      "artist": "Mobb Deep/Crystal Johnson",
+      "has_synced": true,
+      "path": "select/15_Temperature's_Rising_(feat._Crystal_Johnson)_Mobb_Deep_Crystal_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Temperature's Rising",
+      "artist": "Raheem DeVaughn",
+      "has_synced": true,
+      "path": "select/16_Temperature's_Rising_Raheem_DeVaughn.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Temperature's Rising",
+      "artist": "Mobb Deep",
+      "has_synced": false,
+      "path": "select/pl_01_Temperature's_Rising_Mobb_Deep.txt"
+    }
+  ]
+}
